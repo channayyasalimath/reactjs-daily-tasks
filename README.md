@@ -5,6 +5,7 @@ This repo contains my React.js task practice.
 To strengthen my React fundamentals by practicing concepts with hands-on coding.
 
 ## Tasks
-Task01 : Counter App (useState)
-Task02 : Login (Simple Login Form)
-Task03 : Toggle Show / Hide
+Task 01 : Counter App (useState)
+Task 02 : Login (Simple Login Form)
+Task 03 : Toggle Show / Hide
+Task 04: Fetch data using Axios, useEffect & Props (Card component)
