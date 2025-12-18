@@ -4,7 +4,8 @@ import { useEffect, useState } from 'react'
 // import Task02 from './components/Task02'
 // import Task03 from './components/Task03'
 // import Task04 from './components/Task04'
-import Task05 from './components/Task05/Task05'
+// import Task05 from './components/Task05/Task05'
+import Task06 from './components/Task06/Task06'
 
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
       {/* <Task02 /> */}
       {/* <Task03 /> */}
       {/* <Task04 /> */}
-      <Task05 />
+      {/* <Task05 /> */}
+      <Task06 />
     </>
   )
 }
